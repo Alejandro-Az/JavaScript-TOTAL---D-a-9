@@ -12,9 +12,9 @@ Debes crear una página HTML con su respectivo archivo JS asociado, en el cual d
 2. A partir de este constructor, vas a crear 3 instancias de automóvil pasando los datos de cada uno por parámetro.
 3. A partir del prototipo del objeto Automóvil, vamos a crear 3 métodos que (por las dependencias entre objetos) 
 estarán disponibles para las 3 instancias de automóviles ya creadas. Estos métodos serán los siguientes:
-	• venderAutomovil(): que recibe por parámetro un nuevo titular, y con eso actualiza la propiedad correspondiente.
-	• verAuto(): que devuelve un string con la información del Automóvil, con el formato 'Marca Modelo - Anio - Titular'
-	• encender(). Este método muestra en un alert el mensaje "El automóvil esta en marcha".
+	* venderAutomovil(): que recibe por parámetro un nuevo titular, y con eso actualiza la propiedad correspondiente.
+	* verAuto(): que devuelve un string con la información del Automóvil, con el formato 'Marca Modelo - Anio - Titular'
+	* encender(). Este método muestra en un alert el mensaje "El automóvil esta en marcha".
 	
 Una vez hecho esto, y para poner a prueba el funcionamiento de los prototipos, 
 quiero que en la pagina HTML agregues un botón que llame (de la forma que prefieras) 
