@@ -21,6 +21,6 @@ quiero que en la pagina HTML agregues un botón que llame (de la forma que prefi
 a una función para mostrar en pantalla los datos de los automóviles registrados (instancias) 
 haciendo uso del método verAuto() que ya hemos declarado.
 
-Pantallas de resultado:
+### Pantallas de resultado
 ![pag1](https://github.com/Alejandro-Az/JavaScript-TOTAL---D-a-9/assets/105530752/c2baeb49-7f0b-42ec-953c-2744d58efa74)
 ![pag2](https://github.com/Alejandro-Az/JavaScript-TOTAL---D-a-9/assets/105530752/d4ae0e80-8ac8-4186-9349-e728c34fc816)
